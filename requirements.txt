@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+markdownify
+python-dotenv
+psycopg2-binary
+tabulate
