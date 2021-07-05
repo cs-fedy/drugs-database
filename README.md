@@ -26,6 +26,6 @@ I'm scraping drugs details from [drugs](https://www.drugs.com), and i want to st
 
 ## Author:
 **created at 🌙 with 💻 and ❤ by f0ody**
-* **Fedi abdouli** - **musixmatch database** - [fedi abdouli](https://github.com/cs-fedy)
+* **Fedi abdouli** - **drugs database** - [fedi abdouli](https://github.com/cs-fedy)
 * my twitter account [FediAbdouli](https://www.twitter.com/FediAbdouli)
 * my instagram account [f0odyy](https://www.instagram.com/f0odyy) 
